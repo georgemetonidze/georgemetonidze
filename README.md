@@ -18,28 +18,30 @@ Here are some ideas to get you started:
 
 
 
-# 🏄‍♂️ Forrest Knight
+# George metonidze
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`🚀 TALL Stack Developer 🚀`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Hello! I'm a passionate and results-driven TALL stack developer with a proven track record of creating transformative digital solutions. With expertise in the TALL stack (Tailwind CSS, Alpine.js, Laravel, and Livewire), I thrive on bringing complex projects to life and delivering exceptional user experiences.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+💼 Professional Expertise:
+My journey as a developer has led me to contribute to a diverse range of projects across various industries. I specialize in crafting innovative e-commerce platforms that drive revenue and customer engagement. Additionally, I've collaborated closely with real estate businesses, delivering feature-rich applications that streamline property management and enhance customer interactions. Moreover, I have hands-on experience in building investing platforms tailored specifically for farmers, empowering them to make data-driven financial decisions.
+
+🌐 E-commerce Solutions
+🏙 Real Estate Applications
+🌱 Farming Investment Platforms
+🛠 Technical Proficiencies:
+I excel in Vue.js for its dynamic user interfaces and seamless interactions. Pairing Vue.js with Laravel and Livewire, I create robust back-end infrastructures that ensure data integrity and system security. The TALL stack's modular architecture allows me to develop maintainable and scalable applications that evolve with your business.
+
+📈 Portfolio:
+To explore some of my recent projects, you can visit my portfolio 
+https://www.digitalcompass.ge/
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
