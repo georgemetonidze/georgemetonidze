@@ -55,9 +55,15 @@ https://www.digitalcompass.ge/
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-
 <br />
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,bootstrap,html,css,jquery,vscode,phpstorm,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,redis,rabbitmq,firebase,mongodb,elasticsearch,postgresql,mysql" />
+    <br>
+</div>
 
 
 
