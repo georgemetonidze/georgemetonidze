@@ -42,8 +42,8 @@ https://www.digitalcompass.ge/
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,bootstrap,html,css,jquery,vscode,phpstorm,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nestjs,redis,rabbitmq,firebase,mongodb,elasticsearch,postgresql,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,postman,nodejs,redis,rabbitmq,firebase,mongodb,elasticsearch,postgresql,mysql" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,alpinejs,bootstrap,tailwind,vscode,phpstorm,github,figma,git" />
     <br>
 </div>
 
